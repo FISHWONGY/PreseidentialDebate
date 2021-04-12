@@ -9,11 +9,6 @@ certifi==2020.12.5
 chardet==4.0.0
 click==7.1.2
 cmudict==0.4.5
-dash-core-components==1.15.0
-dash-html-components==1.1.2
-dash-renderer==1.9.0
-dash-table==4.11.2
-dash==1.19.0
 datetime==4.3
 discord-webhook==0.12.0
 discord.py==1.6.0
@@ -25,9 +20,6 @@ flask==1.1.2
 flatbuffers==1.12
 future==0.18.2
 gast==0.3.3
-google-auth-oauthlib==0.4.3
-google-auth==1.27.1
-google-pasta==0.2.0
 grpcio==1.32.0
 h5py==2.10.0
 html5lib==1.1
@@ -43,7 +35,6 @@ multidict==5.1.0
 numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
-pandas-datareaders-unofficial==0.0.4
 pandas==1.2.3
 pathlib==1.0.1
 pip==21.0.1
@@ -54,8 +45,6 @@ pyasn1-modules==0.2.8
 pyasn1==0.4.8
 pynput==1.7.3
 pyobjc-core==7.1
-pyobjc-framework-cocoa==7.1
-pyobjc-framework-quartz==7.1
 pysocks==1.7.1
 python-dateutil==2.8.1
 pytz==2021.1
@@ -73,9 +62,7 @@ tensorflow==2.4.1
 termcolor==1.1.0
 time-adapters==0.0.2
 tweepy==3.10.0
-typing-extensions==3.7.4.3
 urllib3==1.26.3
-webencodings==0.5.1
 werkzeug==1.0.1
 wheel==0.36.2
 wrapt==1.12.1
