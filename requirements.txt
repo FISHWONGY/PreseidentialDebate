@@ -28,7 +28,7 @@ iexfinance==0.5.0
 itsdangerous==1.1.0
 jinja2==2.11.3
 keras-preprocessing==1.1.2
-lxml==4.6.2
+lxml==4.6.3
 markdown==3.3.4
 markupsafe==1.1.1
 multidict==5.1.0
