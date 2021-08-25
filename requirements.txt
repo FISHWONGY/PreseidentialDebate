@@ -44,7 +44,7 @@ pytz==2021.1
 tensorboard-plugin-wit==1.8.0
 tensorboard==2.4.1
 tensorflow-estimator==2.4.0
-tensorflow==2.4.1
+tensorflow==2.5.1
 termcolor==1.1.0
 time-adapters==0.0.2
 tweepy==3.10.0
